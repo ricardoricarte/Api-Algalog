@@ -49,4 +49,5 @@ $ cd target/
 $ java -jar algalog-api-0.0.1-SNAPSHOT
 Entrar em http://localhost:8080
 
-https://github.com/ImGabreuw/mergulho-spring-rest/raw/master/.github/modelo-conceitual.PNG
+![modelo-conceitual](https://user-images.githubusercontent.com/56279938/208564745-915a4e50-5b32-4629-96f7-4946287c163c.png)
+
