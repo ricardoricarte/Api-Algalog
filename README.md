@@ -1,5 +1,5 @@
-<div center>![68747470733a2f2f636166652e616c6761776f726b732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30342f4d53522d33303070782e706e67](https://user-images.githubusercontent.com/56279938/208560507-001c90af-8811-4a5b-bb74-33a0710d7fb0.png)</div>
-<p style="text-align:center;"> <img src="(https://user-images.githubusercontent.com/56279938/208560507-001c90af-8811-4a5b-bb74-33a0710d7fb0.png"> </p>
+![68747470733a2f2f636166652e616c6761776f726b732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30342f4d53522d33303070782e706e67](https://user-images.githubusercontent.com/56279938/208560507-001c90af-8811-4a5b-bb74-33a0710d7fb0.png)
+
 
 mergulho-spring-rest
 GitHub language count GitHub forks Bitbucket open issues Bitbucket open pull requests
